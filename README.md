@@ -5,7 +5,7 @@
 Here is my presentation 😊**
 
 ## Languages
-![Alt text](https://imgur.com/N6yLkOm.png)
+![Alt text](https://imgur.com/oe6fm2q.png)
 
 
 **Learn Python and C-Sharp soon ... 🤯**
