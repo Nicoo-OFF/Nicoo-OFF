@@ -1,6 +1,6 @@
-# 💬 About me
+# 💬 WELCOME TO MY PROFIL
 
-## **WELCOME TO MY PROFIL !**
+## **About me !**
 **I am a young developer learning in different languages,
 Here is my presentation 😊**
 
