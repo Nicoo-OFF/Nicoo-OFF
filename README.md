@@ -10,7 +10,9 @@ Here is my presentation 😊**
 
 
 **Learn Python and C-Sharp soon ... 🤯**
-<!---
-Nicoo-OFF/Nicoo-OFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/NicooOFF/count.svg" />
+</p>
