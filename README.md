@@ -4,8 +4,8 @@
 <p align='center'>
   <b>I am a young developer learning in different languages,
 Here is my presentation 😊</b><br>
-  <a href="https://discord.gg/Dinaston#0001">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC1ksthHv7Z9G3kUCW4YetSw">YouTube</a> |
+  <a href="https://discord.gg/Nicoo#3178">Discord</a> |
+  <a href="https://steamcommunity.com/profiles/76561198865219850">Steam</a> |
   <a href="https://open.spotify.com/user/7rshhyfcpg1wfmxtqblnouuq8">Spotify</a> |
 </p>
 
