@@ -34,7 +34,7 @@ Here is my presentation 😊</b><br>
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>&nbsp;
 	<br><br>
 	<b>My Stats</b><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicoo-OFF&theme=discord_old_blurple&hide_border=true">
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicoo-OFF&theme=nord&hide_border=true">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=Nicoo-OFF&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=discord_old_blurple">
 	<br>
