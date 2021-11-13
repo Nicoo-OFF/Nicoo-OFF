@@ -1,11 +1,11 @@
 # 💬 WELCOME TO MY PROFIL
 
-## **About me !**
 **I am a young developer learning in different languages,
 Here is my presentation 😊**
 
 
 <p align='center'>
+  <b>**About me !**</b><br>
   <a href="https://discord.gg/Dinaston#0001">Discord</a> |
   <a href="https://www.youtube.com/channel/UC1ksthHv7Z9G3kUCW4YetSw">YouTube</a> |
   <a href="https://open.spotify.com/user/7rshhyfcpg1wfmxtqblnouuq8">Spotify</a> |
