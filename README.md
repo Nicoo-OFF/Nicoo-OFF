@@ -14,7 +14,7 @@ Here is my presentation 😊</b><br>
 <p align='center'>
   <a href="https://discord.gg/Nicoo#3178">Discord</a> |
   <a href="https://steamcommunity.com/profiles/76561198865219850">Steam</a> |
-  <a href="https://open.spotify.com/user/7rshhyfcpg1wfmxtqblnouuq8">Spotify</a> |
+  <a href="https://open.spotify.com/user/7rshhyfcpg1wfmxtqblnouuq8">Spotify</a>
 </p>
 ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵
 ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵
