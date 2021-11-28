@@ -47,6 +47,6 @@ Here is my presentation 😊</b><br>
 
 
 <p align="center"> 
-  Compteur de visites :<br>
+  You are the :<br>
   <img src="https://profile-counter.glitch.me/NicooOFF/count.svg" />
 </p>
