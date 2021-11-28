@@ -43,9 +43,6 @@ Here is my presentation 😊</b><br>
 <p>&nbsp;</p>    
 
 
-**Learn Python and C-Sharp soon ... 🤯**
-
-
 <p align="center"> 
   You are the :<br>
   <img src="https://profile-counter.glitch.me/NicooOFF/count.svg" />
