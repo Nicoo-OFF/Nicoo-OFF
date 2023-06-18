@@ -2,11 +2,7 @@
 ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵
 ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵
 ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵
-឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵
-<p align='center'>
-  <b>I am a young developer learning in different languages,
-Here is my presentation 😊</b><br>
-</p>
+឵឵឵ ឵឵឵
 ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵
 ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵
 ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵ ឵឵឵
