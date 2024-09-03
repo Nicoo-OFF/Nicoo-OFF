@@ -7,7 +7,7 @@ I'm Nicolas Morovich a student in CS at University. I spend most of my time codi
 
 
 
-:mailbox: Reach me out!
+### :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@NicolasMorovich-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/stillnicooo) [![Linkedin Badge](https://img.shields.io/badge/-Nicolas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-morovich/) [![Mail Badge](https://img.shields.io/badge/-@nicolas_mrvh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nicolas_mrvh) [![Mail Badge](https://img.shields.io/badge/-morovichnicolas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:morovichnicolas@gmail.com)
 
