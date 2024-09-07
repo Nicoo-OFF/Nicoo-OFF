@@ -27,3 +27,5 @@ I'm Nicolas Morovich a student in CS at University. I spend most of my time codi
 
 ### My Resume
 - :paperclip: [My Resume/CV]
+
+[![](https://visitcount.itsvg.in/api?id=Nicoo&label=Github&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
