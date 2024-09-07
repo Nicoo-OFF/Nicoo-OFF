@@ -23,7 +23,7 @@ I'm Nicolas Morovich a student in CS at University. I spend most of my time codi
 
 ### Knowledge
 
-[![LUA Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=lua&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C/C++-007acc?style=for-the-badge&labelColor=black&logo=.net&logoColor=007acc)](#)
+[![LUA Badge](https://img.shields.io/badge/-LUA-F0DB4F?style=for-the-badge&labelColor=black&logo=lua&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C/C++-007acc?style=for-the-badge&labelColor=black&logo=.net&logoColor=007acc)](#)
 
 ### My Resume
 - :paperclip: [My Resume/CV]
