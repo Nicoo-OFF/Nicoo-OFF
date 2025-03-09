@@ -3,7 +3,7 @@
 🚀 Check out my Portfolio: (Work in Progress)
 
 
-I'm Nicolas Morovich a student in CS at University. I spend most of my time coding or studying new stuff. 
+I am a student in CS at university.
 
 
 
@@ -16,7 +16,6 @@ I'm Nicolas Morovich a student in CS at University. I spend most of my time codi
 
 ### What I currently Do
 
-- 🎓 I’m currently studying at Université de Liège in Belgium
 - ...
 
   
