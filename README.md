@@ -22,7 +22,7 @@ I am a student in CS at university.
 
 ### Knowledge
 
-[![LUA Badge](https://img.shields.io/badge/-LUA-373fe9?style=for-the-badge&labelColor=black&logo=lua&logoColor=373fe9)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C/C++-007acc?style=for-the-badge&labelColor=black&logo=.net&logoColor=007acc)](#) [![C Badge](https://img.shields.io/badge/-Assembly-007acc?style=for-the-badge&labelColor=black&logo=assemblyscript&logoColor=007acc)](#)
+[![LUA Badge](https://img.shields.io/badge/-LUA-373fe9?style=for-the-badge&labelColor=black&logo=lua&logoColor=373fe9)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C/C++-007acc?style=for-the-badge&labelColor=black&logo=.net&logoColor=007acc)](#) [![C Badge](https://img.shields.io/badge/-Assembly-007acc?style=for-the-badge&labelColor=black&logo=assemblyscript&logoColor=bd2200)](#)
 
 ### My Resume
 - :paperclip: [My Resume/CV]
